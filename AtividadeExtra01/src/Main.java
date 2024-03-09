@@ -23,6 +23,6 @@ public class Main {
             }
         }while(resp != 2);
 
-
+        scanner.close();
     }
 }
